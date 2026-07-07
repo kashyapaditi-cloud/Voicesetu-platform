@@ -61,7 +61,7 @@ export function getCategoryIcon(category: string): string {
   const icons: Record<string, string> = {
     education: 'GraduationCap',
     water_supply: 'Droplet',
-    roads: 'Road',
+    roads: 'Route',
     healthcare: 'HeartPulse',
     power: 'Zap',
     sanitation: 'Trash2',

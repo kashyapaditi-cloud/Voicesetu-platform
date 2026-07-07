@@ -8,7 +8,7 @@ const infraTypes = [
   { type: 'school', label: 'Schools', icon: School, color: 'primary' },
   { type: 'hospital', label: 'Healthcare', icon: HeartPulse, color: 'critical' },
   { type: 'water_supply', label: 'Water Supply', icon: Droplet, color: 'secondary' },
-  { type: 'road', label: 'Roads', icon: Road, color: 'accent' },
+  { type: 'road', label: 'Roads', icon: Route, color: 'accent' },
   { type: 'power', label: 'Power', icon: Zap, color: 'primary' },
   { type: 'sanitation', label: 'Sanitation', icon: Trash2, color: 'accent' },
 ];
